@@ -7,7 +7,7 @@ A curated list of resources related to IPTV.
 - 💻 [Apps](#apps)
   - [Web](#web)
   - [Windows](#windows)
-  - [macOS](#macos)
+  - [macOS](#macos) 
   - [Linux](#linux)
   - [Android](#android)
   - [iPhone](#iphone)
