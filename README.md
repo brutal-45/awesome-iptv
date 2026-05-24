@@ -1,4 +1,4 @@
-# Awesome IPTV
+# Awesome IPTV 
  
 A curated list of resources related to IPTV.
   
