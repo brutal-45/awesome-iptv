@@ -1,6 +1,6 @@
 # Awesome IPTV
 
-A curated list of resources related to IPTV. 
+A curated list of resources related to IPTV.
 
 ## Contents
 
