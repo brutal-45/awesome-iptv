@@ -2,7 +2,7 @@
 
 A curated list of resources related to IPTV.
 
-## Contents
+## Contents 
 
 - 💻 [Apps](#apps)
   - [Web](#web)
