@@ -94,6 +94,7 @@ Applications with support of IPTV streams.
 - [Blazin IPTV Player](https://apps.microsoft.com/detail/9nq5s0ffcn8t?hl=en-US&gl=US) - All-in-one Windows IPTV player for Xtream, STB MAC, Stalker, M3U files, and M3U URLs with multi-threaded playlist loading and built-in VLC playback.
 - [Lotus Engine](https://github.com/hieu-TQS/MediaLedInterface) - A free, open-source desktop IPTV player that supports Digital Rights Management for Media Presentation Description.
 - [XPlayer](https://github.com/TNT-Likely/xplayer) - Free and open-source cross-platform IPTV/M3U player with channel grouping, search, EPG, and favorites.
+- [cli-tv](https://github.com/webwurst9000/cli-tv/) - A fast, lightweight terminal IPTV browser and player built in Rust, featuring background stream health probing and an interactive keyboard-driven interface.
 
 #### macOS
 
@@ -122,6 +123,7 @@ Applications with support of IPTV streams.
 - [Nightmare TV](https://github.com/zeze89/nightmare-tv-releases/releases/latest) - libmpv-based IPTV/M3U/Xtream Codes player for macOS (beta) with HDR tone-mapping (BT.2390), 4K HEVC/AV1 hardware decode, and multi-view.
 - [Dion](https://apps.apple.com/es/app/dion-media-center/id6761329047?platform=mac) - Media center for Xtream, M3U, Stremio add-ons, Plex and Jellyfin sources with EPG, iCloud sync, multiplayer playback and 4K HDR.
 - [XPlayer](https://github.com/TNT-Likely/xplayer) - Free and open-source cross-platform IPTV/M3U player with channel grouping, search, EPG, and favorites.
+- [cli-tv](https://github.com/webwurst9000/cli-tv/) - A fast, lightweight terminal IPTV browser and player built in Rust, featuring background stream health probing and an interactive keyboard-driven interface.
 
 #### Linux
 
@@ -148,6 +150,7 @@ Applications with support of IPTV streams.
 - [IPTV Controller Pro](https://github.com/tanmay1117/Iptv-on-mpv-) - A high-performance, cross-platform IPTV browser built with Python and the MPV engine.
 - [sbtlTV](https://github.com/thesubtleties/sbtlTV) - A free, open-source desktop IPTV player built with Electron and mpv, focused on a simple, low-latency experience with Xtream and M3U support, EPG, movies and series, multi-source merging, and watch progress.
 - [XPlayer](https://github.com/TNT-Likely/xplayer) - Free and open-source cross-platform IPTV/M3U player with channel grouping, search, EPG, and favorites.
+- [cli-tv](https://github.com/webwurst9000/cli-tv/) - A fast, lightweight terminal IPTV browser and player built in Rust, featuring background stream health probing and an interactive keyboard-driven interface.
 
 #### Android
 
