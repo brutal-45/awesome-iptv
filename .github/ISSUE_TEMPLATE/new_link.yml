@@ -1,0 +1,17 @@
+name: "New link"
+description: "Submit a request to add a new link to the list"
+labels: []
+body:
+  - type: input
+    id: link
+    attributes:
+      label: Link
+      description: For Android, iPhone, iPad, Apple Watch, Apple TV, Apple Vision Pro, Android TV, WebOS, Roku, Xbox and Google Chrome apps link should lead to a reputable app store or source code
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+    validations:
+      required: true
