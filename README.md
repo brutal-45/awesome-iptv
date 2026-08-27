@@ -44,7 +44,15 @@ A curated list of resources related to IPTV.
 
 ## Contribution
 
-To add a new link to the list, simply fill out this [form](https://github.com/iptv-org/awesome-iptv/issues/new?template=new_link.yml). Once reviewed, it will be published in the appropriate category in the [Discussions](https://github.com/iptv-org/awesome-iptv/discussions) tab.
+To add a new link to the list, simply fill out this [form](https://github.com/iptv-org/awesome-iptv/issues/new?template=new_link.yml). 
+
+Just please follow 3 simple rules:
+
+- the title should only contain the name of the app or service
+- the link should not lead to a file download
+- the description should not contain any links
+
+Once reviewed, the link will be published in the appropriate category in the [Discussions](https://github.com/iptv-org/awesome-iptv/discussions) tab.
 
 ## License
 
