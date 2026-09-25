@@ -19,6 +19,7 @@ A curated list of resources related to IPTV.
   - [Apple TV](https://github.com/iptv-org/awesome-iptv/discussions/categories/players?discussions_q=is%3Aopen+category%3APlayers+label%3A%22Apple+TV%22)
   - [Apple Vision Pro](https://github.com/iptv-org/awesome-iptv/discussions/categories/players?discussions_q=is%3Aopen+category%3APlayers+label%3A%22Apple+Vision+Pro%22)
   - [Android TV](https://github.com/iptv-org/awesome-iptv/discussions/categories/players?discussions_q=is%3Aopen+category%3APlayers+label%3A%22Android+TV%22)
+  - [Tizen OS](https://github.com/iptv-org/awesome-iptv/discussions/categories/players?discussions_q=is%3Aopen+category%3APlayers+label%3A%22Tizen+OS%22)
   - [webOS](https://github.com/iptv-org/awesome-iptv/discussions/categories/players?discussions_q=is%3Aopen+category%3APlayers+label%3AwebOS)
   - [Roku](https://github.com/iptv-org/awesome-iptv/discussions/categories/players?discussions_q=is%3Aopen+category%3APlayers+label%3ARoku)
   - [Xbox](https://github.com/iptv-org/awesome-iptv/discussions/categories/players?discussions_q=is%3Aopen+category%3APlayers+label%3AXBox)
